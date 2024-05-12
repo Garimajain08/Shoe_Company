@@ -868,11 +868,11 @@ video {
 }
 
 .bg-\[url\(\'\.\.\/images\/road\.png\'\)\] {
-  background-image: url('../images/road.png');
+  background-image: url('/images/road.png');
 }
 
 .bg-\[url\(\'\.\.\/images\/testimonals\.png\'\)\] {
-  background-image: url('../images/testimonals.png');
+  background-image: url('/images/testimonals.png');
 }
 
 .bg-cover {
